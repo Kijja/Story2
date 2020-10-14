@@ -1,1 +1,2 @@
 This is the story.txt
+This is a g story
